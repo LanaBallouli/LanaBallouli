@@ -35,6 +35,7 @@ I'm **Lana Ballouli**, a passionate developer specializing in cross-platform mob
 
 **Notable Projects:**
 - Food delivery application (FoodTek)
+- To Do list application
 
 **2025 Goals:** 
 - Build impactful open-source tools
