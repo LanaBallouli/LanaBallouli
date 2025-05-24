@@ -23,7 +23,7 @@
 
 📄 **[Download Resume](https://drive.google.com/drive)** | **📍 Open to Opportunities** 
 
-🚀 **Full-Stack Mobile Developer** | Flutter • Android • SQL 
+🚀 **Mobile Developer** | Flutter • Android • SQL 
 
 I'm **Lana Ballouli**, a passionate developer specializing in cross-platform mobile solutions (Flutter). With a good experience in building production-ready apps and APIs integrations, I bridge the gap between beautiful interfaces and scalable architecture.
 
