@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Lana Ballouli  
-###  Flutter Developer | Passionate About Building Mobile Experiences
-
-# 🚀 Lana Ballouli 
-### **Flutter Developer** | Mobile Architect | Passionate Problem Solver
+### **Flutter Developer** | Mobile Architect | Passionate Problem Solver 🚀
+###
 
 
 <p align="left">
