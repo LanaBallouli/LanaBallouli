@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=lanaballouli&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
 <img src="https://img.shields.io/github/followers/lanaballouli?label=GitHub+Followers&style=flat" alt="GitHub followers" />
 
-📄 **[Download Resume](https://drive.google.com/drive)** | **📍 Open to Opportunities** 
+**📍 Open to Opportunities** 
 
 🚀 **Mobile Developer** | Flutter • Android • SQL 
 
